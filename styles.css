@@ -1,0 +1,31 @@
+/* .colorOption {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+} */
+
+#colorOptions > div {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin: 5px;
+  cursor: pointer;
+}
+
+
+#colorOptions {
+  margin: 10px;
+  display: flex;
+}
+
+.redColor{
+  color:red;
+}
+.blueColor{
+  color: blue;
+}
+.greenColor{
+  color: greenyellow;
+}
